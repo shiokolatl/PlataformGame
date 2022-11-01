@@ -9,6 +9,9 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: 3ba250c4b334631429c650d3f8551ede
+  - enabled: 1
     path: Assets/Scenes/StartScreen.unity
     guid: af95e44bd5d3e6f478bd536112988b55
   - enabled: 1
@@ -20,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScreen.unity
     guid: 5d2c1a5f9efbb9d4c95f167aeaf61a92
+  - enabled: 1
+    path: Assets/Scenes/Flappy.unity
+    guid: 23e4b50e7964ec441ac886378361e957
   m_configObjects: {}
